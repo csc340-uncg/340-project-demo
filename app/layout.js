@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Summer 2026 Service Provider Wiki",
+  title: "340 Project - Service Provider Wiki",
   description: "Documentation and demos for the Service Provider Platform summer class project",
 };
 
