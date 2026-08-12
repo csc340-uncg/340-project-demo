@@ -20,7 +20,6 @@ export default function IdeasPage() {
       const response = await fetch("/api/ideas");
       if (!response.ok) throw new Error("Failed to fetch ideas");
       const data = await response.json();
-      console.log("Fetched ideas:", data);
       setIdeas(data);
       setError(null);
     } catch (err) {
