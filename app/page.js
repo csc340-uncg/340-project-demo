@@ -22,7 +22,7 @@ export default function Home() {
             A huge share of your grade will come from the class project!
             You will be required to work in pairs to develop a piece of software using methodologies and models discussed in class.
             We will try to work as closely as possible to the way software is developed in the industry. Therefore, we will adopt an incremental approach to producing our software product. </p>
-          <p>The culmination of this will be final project presentations during the last class session, July 23rd. See the class schedule for specific dates and deadlines!
+          <p>The culmination of this will be final project presentations during final exams week. See the class schedule for specific dates and deadlines!
             While you have almost complete creative freedom on your software product, there are basic requirements that need to be fulfilled. </p>
         </div>
       </section>
